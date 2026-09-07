@@ -12,12 +12,29 @@
         "https://images.unsplash.com/photo-1592286927505-2fd2f0f9a7e6?auto=format&fit=crop&w=800&q=80",
         "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["A18 chip", "48MP Fusion camera", "Camera Control button", "USB-C"],
+      "highlights": [
+        "A18 chip",
+        "48MP Fusion camera",
+        "Camera Control button",
+        "USB-C"
+      ],
       "specifications": [
-        { "label": "Display", "value": "6.1\" Super Retina XDR" },
-        { "label": "Chipset", "value": "Apple A18" },
-        { "label": "Rear camera", "value": "48MP + 12MP" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Display",
+          "value": "6.1\" Super Retina XDR"
+        },
+        {
+          "label": "Chipset",
+          "value": "Apple A18"
+        },
+        {
+          "label": "Rear camera",
+          "value": "48MP + 12MP"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.7,
       "rating_count": 540,
@@ -36,12 +53,29 @@
       "images": [
         "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["Galaxy AI", "Snapdragon 8 Elite", "50MP triple camera", "7 years of updates"],
+      "highlights": [
+        "Galaxy AI",
+        "Snapdragon 8 Elite",
+        "50MP triple camera",
+        "7 years of updates"
+      ],
       "specifications": [
-        { "label": "Display", "value": "6.2\" AMOLED, 120Hz" },
-        { "label": "Chipset", "value": "Snapdragon 8 Elite" },
-        { "label": "Battery", "value": "4000 mAh" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Display",
+          "value": "6.2\" AMOLED, 120Hz"
+        },
+        {
+          "label": "Chipset",
+          "value": "Snapdragon 8 Elite"
+        },
+        {
+          "label": "Battery",
+          "value": "4000 mAh"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.5,
       "rating_count": 410,
@@ -60,12 +94,29 @@
       "images": [
         "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["Best-in-class ANC", "30 hr battery", "Multipoint connection", "Speak-to-chat"],
+      "highlights": [
+        "Best-in-class ANC",
+        "30 hr battery",
+        "Multipoint connection",
+        "Speak-to-chat"
+      ],
       "specifications": [
-        { "label": "Type", "value": "Over-ear, wireless" },
-        { "label": "Battery", "value": "30 hours (ANC on)" },
-        { "label": "Codecs", "value": "LDAC, AAC, SBC" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Type",
+          "value": "Over-ear, wireless"
+        },
+        {
+          "label": "Battery",
+          "value": "30 hours (ANC on)"
+        },
+        {
+          "label": "Codecs",
+          "value": "LDAC, AAC, SBC"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.6,
       "rating_count": 980,
@@ -84,12 +135,29 @@
       "images": [
         "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["Wide-angle OLED", "Fast charging", "Sleep apnea notifications", "Water resistant"],
+      "highlights": [
+        "Wide-angle OLED",
+        "Fast charging",
+        "Sleep apnea notifications",
+        "Water resistant"
+      ],
       "specifications": [
-        { "label": "Case sizes", "value": "42 mm / 46 mm" },
-        { "label": "Display", "value": "LTPO3 OLED" },
-        { "label": "Battery", "value": "Up to 18 hours" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Case sizes",
+          "value": "42 mm / 46 mm"
+        },
+        {
+          "label": "Display",
+          "value": "LTPO3 OLED"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 18 hours"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.7,
       "rating_count": 260,
@@ -109,12 +177,29 @@
         "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
         "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["Dynamic Air cushioning", "Breathable mesh upper", "Rubber outsole", "Everyday comfort"],
+      "highlights": [
+        "Dynamic Air cushioning",
+        "Breathable mesh upper",
+        "Rubber outsole",
+        "Everyday comfort"
+      ],
       "specifications": [
-        { "label": "Upper", "value": "Engineered mesh" },
-        { "label": "Cushioning", "value": "Air Max Dn" },
-        { "label": "Closure", "value": "Lace-up" },
-        { "label": "Warranty", "value": "6 months" }
+        {
+          "label": "Upper",
+          "value": "Engineered mesh"
+        },
+        {
+          "label": "Cushioning",
+          "value": "Air Max Dn"
+        },
+        {
+          "label": "Closure",
+          "value": "Lace-up"
+        },
+        {
+          "label": "Warranty",
+          "value": "6 months"
+        }
       ],
       "rating": 4.4,
       "rating_count": 320,
@@ -133,12 +218,29 @@
       "images": [
         "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["24.2MP APS-C sensor", "15 fps mechanical", "Dual Pixel AF II", "4K 30p video"],
+      "highlights": [
+        "24.2MP APS-C sensor",
+        "15 fps mechanical",
+        "Dual Pixel AF II",
+        "4K 30p video"
+      ],
       "specifications": [
-        { "label": "Sensor", "value": "24.2MP APS-C CMOS" },
-        { "label": "Mount", "value": "Canon RF" },
-        { "label": "Video", "value": "4K UHD 30p" },
-        { "label": "Warranty", "value": "2 years" }
+        {
+          "label": "Sensor",
+          "value": "24.2MP APS-C CMOS"
+        },
+        {
+          "label": "Mount",
+          "value": "Canon RF"
+        },
+        {
+          "label": "Video",
+          "value": "4K UHD 30p"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years"
+        }
       ],
       "rating": 4.6,
       "rating_count": 150,
@@ -157,26 +259,45 @@
       "images": [
         "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
       ],
-      "highlights": ["Apple M2 chip", "11\" Liquid Retina", "Apple Pencil Pro support", "All-day battery"],
+      "highlights": [
+        "Apple M2 chip",
+        "11\" Liquid Retina",
+        "Apple Pencil Pro support",
+        "All-day battery"
+      ],
       "specifications": [
-        { "label": "Display", "value": "11\" Liquid Retina" },
-        { "label": "Chip", "value": "Apple M2" },
-        { "label": "Storage", "value": "128 GB / 256 GB" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Display",
+          "value": "11\" Liquid Retina"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple M2"
+        },
+        {
+          "label": "Storage",
+          "value": "128 GB / 256 GB"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.7,
       "rating_count": 210,
       "created_at": "2026-09-07T00:00:00Z"
     }
   },
-
   {
     "model": "marketplace.productvariant",
     "pk": "iphone-16-128-black",
     "fields": {
       "product": "iphone-16",
-      "label": "128 GB · Black",
-      "attributes": { "Storage": "128 GB", "Colour": "Black" },
+      "label": "128 GB \u00b7 Black",
+      "attributes": {
+        "Storage": "128 GB",
+        "Colour": "Black"
+      },
       "price": "74999.00",
       "mrp": "79999.00",
       "in_stock": true,
@@ -189,8 +310,11 @@
     "pk": "iphone-16-256-blue",
     "fields": {
       "product": "iphone-16",
-      "label": "256 GB · Blue",
-      "attributes": { "Storage": "256 GB", "Colour": "Blue" },
+      "label": "256 GB \u00b7 Blue",
+      "attributes": {
+        "Storage": "256 GB",
+        "Colour": "Blue"
+      },
       "price": "84999.00",
       "mrp": "89999.00",
       "in_stock": true,
@@ -203,8 +327,11 @@
     "pk": "pixel-9-128-obsidian",
     "fields": {
       "product": "pixel-9",
-      "label": "128 GB · Obsidian",
-      "attributes": { "Storage": "128 GB", "Colour": "Obsidian" },
+      "label": "128 GB \u00b7 Obsidian",
+      "attributes": {
+        "Storage": "128 GB",
+        "Colour": "Obsidian"
+      },
       "price": "79999.00",
       "mrp": "84999.00",
       "in_stock": true,
@@ -217,8 +344,11 @@
     "pk": "samsung-s25-256-silver",
     "fields": {
       "product": "samsung-s25",
-      "label": "256 GB · Silver",
-      "attributes": { "Storage": "256 GB", "Colour": "Silver" },
+      "label": "256 GB \u00b7 Silver",
+      "attributes": {
+        "Storage": "256 GB",
+        "Colour": "Silver"
+      },
       "price": "89999.00",
       "mrp": "94999.00",
       "in_stock": true,
@@ -231,8 +361,12 @@
     "pk": "macbook-air-m3-256-spacegray",
     "fields": {
       "product": "macbook-air-m3",
-      "label": "256 GB · Space Gray",
-      "attributes": { "Storage": "256 GB", "RAM": "8 GB", "Colour": "Space Gray" },
+      "label": "256 GB \u00b7 Space Gray",
+      "attributes": {
+        "Storage": "256 GB",
+        "RAM": "8 GB",
+        "Colour": "Space Gray"
+      },
       "price": "99999.00",
       "mrp": "114999.00",
       "in_stock": true,
@@ -245,8 +379,12 @@
     "pk": "macbook-air-m3-512-midnight",
     "fields": {
       "product": "macbook-air-m3",
-      "label": "512 GB · Midnight",
-      "attributes": { "Storage": "512 GB", "RAM": "16 GB", "Colour": "Midnight" },
+      "label": "512 GB \u00b7 Midnight",
+      "attributes": {
+        "Storage": "512 GB",
+        "RAM": "16 GB",
+        "Colour": "Midnight"
+      },
       "price": "129999.00",
       "mrp": "144999.00",
       "in_stock": true,
@@ -259,8 +397,12 @@
     "pk": "sony-headphones-black",
     "fields": {
       "product": "sony-headphones",
-      "label": "Black · Wireless",
-      "attributes": { "Colour": "Black", "Type": "Wireless", "Noise Cancellation": "Yes" },
+      "label": "Black \u00b7 Wireless",
+      "attributes": {
+        "Colour": "Black",
+        "Type": "Wireless",
+        "Noise Cancellation": "Yes"
+      },
       "price": "24999.00",
       "mrp": "29999.00",
       "in_stock": true,
@@ -273,8 +415,12 @@
     "pk": "apple-watch-series-10-black",
     "fields": {
       "product": "apple-watch-series-10",
-      "label": "42 mm · Black",
-      "attributes": { "Size": "42 mm", "Colour": "Black", "Connectivity": "GPS" },
+      "label": "42 mm \u00b7 Black",
+      "attributes": {
+        "Size": "42 mm",
+        "Colour": "Black",
+        "Connectivity": "GPS"
+      },
       "price": "44999.00",
       "mrp": "49999.00",
       "in_stock": true,
@@ -287,8 +433,12 @@
     "pk": "nike-air-max-black-9",
     "fields": {
       "product": "nike-air-max",
-      "label": "Size 9 · Black",
-      "attributes": { "Size": "9", "Colour": "Black", "Gender": "Men" },
+      "label": "Size 9 \u00b7 Black",
+      "attributes": {
+        "Size": "9",
+        "Colour": "Black",
+        "Gender": "Men"
+      },
       "price": "8999.00",
       "mrp": "11999.00",
       "in_stock": true,
@@ -301,8 +451,12 @@
     "pk": "nike-air-max-white-10",
     "fields": {
       "product": "nike-air-max",
-      "label": "Size 10 · White",
-      "attributes": { "Size": "10", "Colour": "White", "Gender": "Men" },
+      "label": "Size 10 \u00b7 White",
+      "attributes": {
+        "Size": "10",
+        "Colour": "White",
+        "Gender": "Men"
+      },
       "price": "9499.00",
       "mrp": "12999.00",
       "in_stock": true,
@@ -315,8 +469,12 @@
     "pk": "canon-eos-r10-black",
     "fields": {
       "product": "canon-eos-r10",
-      "label": "18-45 mm · Black",
-      "attributes": { "Lens": "18-45 mm", "Colour": "Black", "Type": "Mirrorless" },
+      "label": "18-45 mm \u00b7 Black",
+      "attributes": {
+        "Lens": "18-45 mm",
+        "Colour": "Black",
+        "Type": "Mirrorless"
+      },
       "price": "79999.00",
       "mrp": "89999.00",
       "in_stock": true,
@@ -329,8 +487,12 @@
     "pk": "ipad-air-256-blue",
     "fields": {
       "product": "ipad-air",
-      "label": "256 GB · Blue",
-      "attributes": { "Storage": "256 GB", "Colour": "Blue", "Connectivity": "Wi-Fi" },
+      "label": "256 GB \u00b7 Blue",
+      "attributes": {
+        "Storage": "256 GB",
+        "Colour": "Blue",
+        "Connectivity": "Wi-Fi"
+      },
       "price": "69999.00",
       "mrp": "74999.00",
       "in_stock": true,
@@ -338,7 +500,6 @@
       "position": 1
     }
   },
-
   {
     "model": "marketplace.product",
     "pk": "oneplus-13",
@@ -348,13 +509,32 @@
       "category": "Smartphones",
       "thumbnail": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=800&q=80",
       "description": "Snapdragon 8 Elite, a 6.82-inch 2K ProXDR display and a Hasselblad triple camera with a 6000 mAh battery.",
-      "images": ["https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=800&q=80"],
-      "highlights": ["Snapdragon 8 Elite", "6000 mAh battery", "Hasselblad camera", "100W fast charging"],
+      "images": [
+        "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Snapdragon 8 Elite",
+        "6000 mAh battery",
+        "Hasselblad camera",
+        "100W fast charging"
+      ],
       "specifications": [
-        { "label": "Display", "value": "6.82\" LTPO AMOLED, 120Hz" },
-        { "label": "Chipset", "value": "Snapdragon 8 Elite" },
-        { "label": "Battery", "value": "6000 mAh" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Display",
+          "value": "6.82\" LTPO AMOLED, 120Hz"
+        },
+        {
+          "label": "Chipset",
+          "value": "Snapdragon 8 Elite"
+        },
+        {
+          "label": "Battery",
+          "value": "6000 mAh"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.5,
       "rating_count": 380,
@@ -366,8 +546,12 @@
     "pk": "oneplus-13-256-black",
     "fields": {
       "product": "oneplus-13",
-      "label": "12/256 GB · Black Eclipse",
-      "attributes": { "Storage": "256 GB", "RAM": "12 GB", "Colour": "Black Eclipse" },
+      "label": "12/256 GB \u00b7 Black Eclipse",
+      "attributes": {
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Colour": "Black Eclipse"
+      },
       "price": "69999.00",
       "mrp": "74999.00",
       "in_stock": true,
@@ -375,7 +559,6 @@
       "position": 1
     }
   },
-
   {
     "model": "marketplace.product",
     "pk": "dell-xps-13",
@@ -385,13 +568,32 @@
       "category": "Laptops",
       "thumbnail": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80",
       "description": "A machined-aluminium ultrabook with a 13.4-inch InfinityEdge display and Intel Core Ultra performance.",
-      "images": ["https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80"],
-      "highlights": ["Intel Core Ultra 7", "13.4\" InfinityEdge", "1.17 kg", "Gorilla Glass"],
+      "images": [
+        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Intel Core Ultra 7",
+        "13.4\" InfinityEdge",
+        "1.17 kg",
+        "Gorilla Glass"
+      ],
       "specifications": [
-        { "label": "Display", "value": "13.4\" FHD+ InfinityEdge" },
-        { "label": "CPU", "value": "Intel Core Ultra 7 155H" },
-        { "label": "Memory", "value": "16 GB / 32 GB LPDDR5x" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Display",
+          "value": "13.4\" FHD+ InfinityEdge"
+        },
+        {
+          "label": "CPU",
+          "value": "Intel Core Ultra 7 155H"
+        },
+        {
+          "label": "Memory",
+          "value": "16 GB / 32 GB LPDDR5x"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.6,
       "rating_count": 240,
@@ -403,8 +605,11 @@
     "pk": "dell-xps-13-16-512",
     "fields": {
       "product": "dell-xps-13",
-      "label": "16 GB · 512 GB",
-      "attributes": { "Memory": "16 GB", "Storage": "512 GB" },
+      "label": "16 GB \u00b7 512 GB",
+      "attributes": {
+        "Memory": "16 GB",
+        "Storage": "512 GB"
+      },
       "price": "129999.00",
       "mrp": "144999.00",
       "in_stock": true,
@@ -417,8 +622,11 @@
     "pk": "dell-xps-13-32-1tb",
     "fields": {
       "product": "dell-xps-13",
-      "label": "32 GB · 1 TB",
-      "attributes": { "Memory": "32 GB", "Storage": "1 TB" },
+      "label": "32 GB \u00b7 1 TB",
+      "attributes": {
+        "Memory": "32 GB",
+        "Storage": "1 TB"
+      },
       "price": "164999.00",
       "mrp": "179999.00",
       "in_stock": true,
@@ -426,7 +634,6 @@
       "position": 2
     }
   },
-
   {
     "model": "marketplace.product",
     "pk": "airpods-pro-2",
@@ -436,13 +643,32 @@
       "category": "Audio",
       "thumbnail": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
       "description": "Up to 2x more active noise cancellation, Adaptive Audio, and the H2 chip with a USB-C charging case.",
-      "images": ["https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80"],
-      "highlights": ["2x more ANC", "Adaptive Audio", "H2 chip", "USB-C case"],
+      "images": [
+        "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "2x more ANC",
+        "Adaptive Audio",
+        "H2 chip",
+        "USB-C case"
+      ],
       "specifications": [
-        { "label": "Type", "value": "In-ear, wireless" },
-        { "label": "Chip", "value": "Apple H2" },
-        { "label": "Battery", "value": "6 hr (ANC on), 30 hr with case" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Type",
+          "value": "In-ear, wireless"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple H2"
+        },
+        {
+          "label": "Battery",
+          "value": "6 hr (ANC on), 30 hr with case"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.7,
       "rating_count": 1520,
@@ -455,7 +681,9 @@
     "fields": {
       "product": "airpods-pro-2",
       "label": "White",
-      "attributes": { "Colour": "White" },
+      "attributes": {
+        "Colour": "White"
+      },
       "price": "21999.00",
       "mrp": "26900.00",
       "in_stock": true,
@@ -463,7 +691,6 @@
       "position": 1
     }
   },
-
   {
     "model": "marketplace.product",
     "pk": "samsung-tab-s10",
@@ -473,13 +700,32 @@
       "category": "Tablets",
       "thumbnail": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&w=800&q=80",
       "description": "A 12.4-inch Dynamic AMOLED 2X display, MediaTek Dimensity 9300+, and an S Pen in the box.",
-      "images": ["https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&w=800&q=80"],
-      "highlights": ["12.4\" AMOLED 120Hz", "S Pen included", "IP68 water resistant", "Dimensity 9300+"],
+      "images": [
+        "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "12.4\" AMOLED 120Hz",
+        "S Pen included",
+        "IP68 water resistant",
+        "Dimensity 9300+"
+      ],
       "specifications": [
-        { "label": "Display", "value": "12.4\" Dynamic AMOLED 2X" },
-        { "label": "Chipset", "value": "MediaTek Dimensity 9300+" },
-        { "label": "Battery", "value": "10090 mAh" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Display",
+          "value": "12.4\" Dynamic AMOLED 2X"
+        },
+        {
+          "label": "Chipset",
+          "value": "MediaTek Dimensity 9300+"
+        },
+        {
+          "label": "Battery",
+          "value": "10090 mAh"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.5,
       "rating_count": 190,
@@ -491,8 +737,12 @@
     "pk": "samsung-tab-s10-256-gray",
     "fields": {
       "product": "samsung-tab-s10",
-      "label": "12/256 GB · Moonstone Gray",
-      "attributes": { "Storage": "256 GB", "RAM": "12 GB", "Colour": "Moonstone Gray" },
+      "label": "12/256 GB \u00b7 Moonstone Gray",
+      "attributes": {
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Colour": "Moonstone Gray"
+      },
       "price": "94999.00",
       "mrp": "104999.00",
       "in_stock": true,
@@ -500,7 +750,6 @@
       "position": 1
     }
   },
-
   {
     "model": "marketplace.product",
     "pk": "gopro-hero-13",
@@ -510,13 +759,32 @@
       "category": "Cameras",
       "thumbnail": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80",
       "description": "5.3K60 video, HDR, HyperSmooth 6.0 stabilisation and a new swappable lens system.",
-      "images": ["https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80"],
-      "highlights": ["5.3K60 video", "HyperSmooth 6.0", "Waterproof to 10m", "Swappable lenses"],
+      "images": [
+        "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "5.3K60 video",
+        "HyperSmooth 6.0",
+        "Waterproof to 10m",
+        "Swappable lenses"
+      ],
       "specifications": [
-        { "label": "Video", "value": "5.3K60 / 4K120" },
-        { "label": "Photo", "value": "27MP" },
-        { "label": "Battery", "value": "Enduro 1900 mAh" },
-        { "label": "Warranty", "value": "1 year" }
+        {
+          "label": "Video",
+          "value": "5.3K60 / 4K120"
+        },
+        {
+          "label": "Photo",
+          "value": "27MP"
+        },
+        {
+          "label": "Battery",
+          "value": "Enduro 1900 mAh"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
       ],
       "rating": 4.4,
       "rating_count": 210,
@@ -529,11 +797,625 @@
     "fields": {
       "product": "gopro-hero-13",
       "label": "Standard Bundle",
-      "attributes": { "Bundle": "Standard", "Colour": "Black" },
+      "attributes": {
+        "Bundle": "Standard",
+        "Colour": "Black"
+      },
       "price": "40999.00",
       "mrp": "45000.00",
       "in_stock": true,
       "image": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "asus-rog-strix-g16",
+    "fields": {
+      "name": "ASUS ROG Strix G16",
+      "brand": "ASUS",
+      "category": "Laptops",
+      "thumbnail": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+      "description": "A 16-inch 240Hz gaming laptop with an Intel Core i9 and an NVIDIA RTX 4070.",
+      "images": [
+        "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Intel Core i9-14900HX",
+        "RTX 4070 8GB",
+        "16in 240Hz QHD+",
+        "MUX switch"
+      ],
+      "specifications": [
+        {
+          "label": "Display",
+          "value": "16in QHD+ 240Hz"
+        },
+        {
+          "label": "GPU",
+          "value": "NVIDIA RTX 4070"
+        },
+        {
+          "label": "RAM",
+          "value": "16 GB DDR5"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.5,
+      "rating_count": 140,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "asus-rog-strix-g16-4070",
+    "fields": {
+      "product": "asus-rog-strix-g16",
+      "label": "i9 / 16 GB / RTX 4070",
+      "attributes": {
+        "CPU": "Core i9",
+        "RAM": "16 GB",
+        "GPU": "RTX 4070"
+      },
+      "price": "164999.00",
+      "mrp": "189999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "lg-c4-oled-55",
+    "fields": {
+      "name": "LG C4 OLED 55",
+      "brand": "LG",
+      "category": "TVs",
+      "thumbnail": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
+      "description": "A 55-inch 4K OLED evo TV with the a9 AI Processor Gen7 and 144Hz gaming support.",
+      "images": [
+        "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "4K OLED evo",
+        "a9 AI Gen7",
+        "144Hz VRR",
+        "Dolby Vision + Atmos"
+      ],
+      "specifications": [
+        {
+          "label": "Panel",
+          "value": "55in 4K OLED evo"
+        },
+        {
+          "label": "Refresh",
+          "value": "144Hz"
+        },
+        {
+          "label": "HDR",
+          "value": "Dolby Vision"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.7,
+      "rating_count": 310,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "lg-c4-oled-55-std",
+    "fields": {
+      "product": "lg-c4-oled-55",
+      "label": "55 inch",
+      "attributes": {
+        "Size": "55 inch",
+        "Panel": "OLED evo"
+      },
+      "price": "134999.00",
+      "mrp": "159999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "bose-qc-ultra",
+    "fields": {
+      "name": "Bose QuietComfort Ultra",
+      "brand": "Bose",
+      "category": "Audio",
+      "thumbnail": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+      "description": "Over-ear headphones with world-class noise cancellation and immersive spatial audio.",
+      "images": [
+        "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "World-class ANC",
+        "Immersive Audio",
+        "24 hr battery",
+        "Aware mode"
+      ],
+      "specifications": [
+        {
+          "label": "Type",
+          "value": "Over-ear, wireless"
+        },
+        {
+          "label": "Battery",
+          "value": "24 hours"
+        },
+        {
+          "label": "Codecs",
+          "value": "aptX Adaptive, AAC, SBC"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.6,
+      "rating_count": 540,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "bose-qc-ultra-black",
+    "fields": {
+      "product": "bose-qc-ultra",
+      "label": "Black",
+      "attributes": {
+        "Colour": "Black"
+      },
+      "price": "29999.00",
+      "mrp": "35900.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "bose-qc-ultra-white",
+    "fields": {
+      "product": "bose-qc-ultra",
+      "label": "White Smoke",
+      "attributes": {
+        "Colour": "White Smoke"
+      },
+      "price": "29999.00",
+      "mrp": "35900.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+      "position": 2
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "fitbit-charge-6",
+    "fields": {
+      "name": "Fitbit Charge 6",
+      "brand": "Fitbit",
+      "category": "Wearables",
+      "thumbnail": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=800&q=80",
+      "description": "A fitness tracker with built-in GPS, a bright AMOLED display and Google apps on the wrist.",
+      "images": [
+        "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Built-in GPS",
+        "AMOLED display",
+        "7-day battery",
+        "ECG app"
+      ],
+      "specifications": [
+        {
+          "label": "Display",
+          "value": "AMOLED"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 7 days"
+        },
+        {
+          "label": "Water resistance",
+          "value": "50 m"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.3,
+      "rating_count": 420,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "fitbit-charge-6-obsidian",
+    "fields": {
+      "product": "fitbit-charge-6",
+      "label": "Obsidian",
+      "attributes": {
+        "Colour": "Obsidian"
+      },
+      "price": "14999.00",
+      "mrp": "16999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "kindle-paperwhite",
+    "fields": {
+      "name": "Kindle Paperwhite (2024)",
+      "brand": "Amazon",
+      "category": "Tablets",
+      "thumbnail": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+      "description": "A 7-inch glare-free E Ink reader, waterproof, with weeks of battery life.",
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "7in glare-free display",
+        "IPX8 waterproof",
+        "Weeks of battery",
+        "Adjustable warm light"
+      ],
+      "specifications": [
+        {
+          "label": "Display",
+          "value": "7in 300 ppi E Ink"
+        },
+        {
+          "label": "Storage",
+          "value": "16 GB"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 12 weeks"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.7,
+      "rating_count": 880,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "kindle-paperwhite-16",
+    "fields": {
+      "product": "kindle-paperwhite",
+      "label": "16 GB - With ads",
+      "attributes": {
+        "Storage": "16 GB",
+        "Ads": "Yes"
+      },
+      "price": "16999.00",
+      "mrp": "17999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "dyson-v15-detect",
+    "fields": {
+      "name": "Dyson V15 Detect",
+      "brand": "Dyson",
+      "category": "Home",
+      "thumbnail": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80",
+      "description": "A cordless vacuum with a laser that reveals microscopic dust and a piezo sensor that counts particles.",
+      "images": [
+        "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Laser dust detection",
+        "Piezo particle sensor",
+        "60 min run time",
+        "HEPA filtration"
+      ],
+      "specifications": [
+        {
+          "label": "Run time",
+          "value": "Up to 60 min"
+        },
+        {
+          "label": "Bin",
+          "value": "0.76 L"
+        },
+        {
+          "label": "Filtration",
+          "value": "Whole-machine HEPA"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years"
+        }
+      ],
+      "rating": 4.6,
+      "rating_count": 260,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "dyson-v15-detect-std",
+    "fields": {
+      "product": "dyson-v15-detect",
+      "label": "Absolute",
+      "attributes": {
+        "Edition": "Absolute"
+      },
+      "price": "54999.00",
+      "mrp": "65900.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "nothing-phone-3",
+    "fields": {
+      "name": "Nothing Phone (3)",
+      "brand": "Nothing",
+      "category": "Smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1662348319240-6c1f56b2c5f3?auto=format&fit=crop&w=800&q=80",
+      "description": "A distinctive transparent design with the Glyph Matrix, Snapdragon 8s Gen 4 and a 50MP triple camera.",
+      "images": [
+        "https://images.unsplash.com/photo-1662348319240-6c1f56b2c5f3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Glyph Matrix",
+        "Snapdragon 8s Gen 4",
+        "50MP triple camera",
+        "5150 mAh battery"
+      ],
+      "specifications": [
+        {
+          "label": "Display",
+          "value": "6.67in AMOLED 120Hz"
+        },
+        {
+          "label": "Chipset",
+          "value": "Snapdragon 8s Gen 4"
+        },
+        {
+          "label": "Battery",
+          "value": "5150 mAh"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.4,
+      "rating_count": 300,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "nothing-phone-3-256-black",
+    "fields": {
+      "product": "nothing-phone-3",
+      "label": "12/256 GB - Black",
+      "attributes": {
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Colour": "Black"
+      },
+      "price": "44999.00",
+      "mrp": "49999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1662348319240-6c1f56b2c5f3?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "nothing-phone-3-512-white",
+    "fields": {
+      "product": "nothing-phone-3",
+      "label": "16/512 GB - White",
+      "attributes": {
+        "Storage": "512 GB",
+        "RAM": "16 GB",
+        "Colour": "White"
+      },
+      "price": "52999.00",
+      "mrp": "57999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1662348319240-6c1f56b2c5f3?auto=format&fit=crop&w=800&q=80",
+      "position": 2
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "jbl-flip-7",
+    "fields": {
+      "name": "JBL Flip 7",
+      "brand": "JBL",
+      "category": "Audio",
+      "thumbnail": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "description": "A rugged portable speaker with JBL Pro Sound, 14 hours of playtime and IP68 dust and water proofing.",
+      "images": [
+        "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "JBL Pro Sound",
+        "14 hr playtime",
+        "IP68 rated",
+        "AuraCast"
+      ],
+      "specifications": [
+        {
+          "label": "Output",
+          "value": "35 W RMS"
+        },
+        {
+          "label": "Battery",
+          "value": "14 hours"
+        },
+        {
+          "label": "Protection",
+          "value": "IP68"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.5,
+      "rating_count": 610,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "jbl-flip-7-blue",
+    "fields": {
+      "product": "jbl-flip-7",
+      "label": "Blue",
+      "attributes": {
+        "Colour": "Blue"
+      },
+      "price": "11999.00",
+      "mrp": "13999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "logitech-mx-master-4",
+    "fields": {
+      "name": "Logitech MX Master 4",
+      "brand": "Logitech",
+      "category": "Accessories",
+      "thumbnail": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+      "description": "A flagship wireless mouse with haptic feedback, an 8K DPI sensor and 70-day battery life.",
+      "images": [
+        "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "Haptic feedback",
+        "8K DPI sensor",
+        "70-day battery",
+        "Multi-device Flow"
+      ],
+      "specifications": [
+        {
+          "label": "Sensor",
+          "value": "Darkfield 8000 DPI"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 70 days"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Bolt USB / Bluetooth"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 year"
+        }
+      ],
+      "rating": 4.7,
+      "rating_count": 450,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "logitech-mx-master-4-graphite",
+    "fields": {
+      "product": "logitech-mx-master-4",
+      "label": "Graphite",
+      "attributes": {
+        "Colour": "Graphite"
+      },
+      "price": "9999.00",
+      "mrp": "11995.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "samsung-990-pro-2tb",
+    "fields": {
+      "name": "Samsung 990 PRO SSD 2TB",
+      "brand": "Samsung",
+      "category": "Storage",
+      "thumbnail": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
+      "description": "A PCIe 4.0 NVMe M.2 SSD with sequential reads up to 7450 MB/s and a nickel-coated controller.",
+      "images": [
+        "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": [
+        "PCIe 4.0 NVMe",
+        "Up to 7450 MB/s read",
+        "Nickel-coated controller",
+        "5-year warranty"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "PCIe 4.0 x4 NVMe"
+        },
+        {
+          "label": "Form factor",
+          "value": "M.2 2280"
+        },
+        {
+          "label": "Read",
+          "value": "7450 MB/s"
+        },
+        {
+          "label": "Warranty",
+          "value": "5 years"
+        }
+      ],
+      "rating": 4.8,
+      "rating_count": 720,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "samsung-990-pro-2tb-std",
+    "fields": {
+      "product": "samsung-990-pro-2tb",
+      "label": "2 TB",
+      "attributes": {
+        "Capacity": "2 TB",
+        "Heatsink": "No"
+      },
+      "price": "15999.00",
+      "mrp": "21999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
       "position": 1
     }
   }
