@@ -337,5 +337,204 @@
       "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
       "position": 1
     }
+  },
+
+  {
+    "model": "marketplace.product",
+    "pk": "oneplus-13",
+    "fields": {
+      "name": "OnePlus 13",
+      "brand": "OnePlus",
+      "category": "Smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=800&q=80",
+      "description": "Snapdragon 8 Elite, a 6.82-inch 2K ProXDR display and a Hasselblad triple camera with a 6000 mAh battery.",
+      "images": ["https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=800&q=80"],
+      "highlights": ["Snapdragon 8 Elite", "6000 mAh battery", "Hasselblad camera", "100W fast charging"],
+      "specifications": [
+        { "label": "Display", "value": "6.82\" LTPO AMOLED, 120Hz" },
+        { "label": "Chipset", "value": "Snapdragon 8 Elite" },
+        { "label": "Battery", "value": "6000 mAh" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.5,
+      "rating_count": 380,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "oneplus-13-256-black",
+    "fields": {
+      "product": "oneplus-13",
+      "label": "12/256 GB · Black Eclipse",
+      "attributes": { "Storage": "256 GB", "RAM": "12 GB", "Colour": "Black Eclipse" },
+      "price": "69999.00",
+      "mrp": "74999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+
+  {
+    "model": "marketplace.product",
+    "pk": "dell-xps-13",
+    "fields": {
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "category": "Laptops",
+      "thumbnail": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80",
+      "description": "A machined-aluminium ultrabook with a 13.4-inch InfinityEdge display and Intel Core Ultra performance.",
+      "images": ["https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80"],
+      "highlights": ["Intel Core Ultra 7", "13.4\" InfinityEdge", "1.17 kg", "Gorilla Glass"],
+      "specifications": [
+        { "label": "Display", "value": "13.4\" FHD+ InfinityEdge" },
+        { "label": "CPU", "value": "Intel Core Ultra 7 155H" },
+        { "label": "Memory", "value": "16 GB / 32 GB LPDDR5x" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.6,
+      "rating_count": 240,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "dell-xps-13-16-512",
+    "fields": {
+      "product": "dell-xps-13",
+      "label": "16 GB · 512 GB",
+      "attributes": { "Memory": "16 GB", "Storage": "512 GB" },
+      "price": "129999.00",
+      "mrp": "144999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "dell-xps-13-32-1tb",
+    "fields": {
+      "product": "dell-xps-13",
+      "label": "32 GB · 1 TB",
+      "attributes": { "Memory": "32 GB", "Storage": "1 TB" },
+      "price": "164999.00",
+      "mrp": "179999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80",
+      "position": 2
+    }
+  },
+
+  {
+    "model": "marketplace.product",
+    "pk": "airpods-pro-2",
+    "fields": {
+      "name": "AirPods Pro 2 (USB-C)",
+      "brand": "Apple",
+      "category": "Audio",
+      "thumbnail": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
+      "description": "Up to 2x more active noise cancellation, Adaptive Audio, and the H2 chip with a USB-C charging case.",
+      "images": ["https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80"],
+      "highlights": ["2x more ANC", "Adaptive Audio", "H2 chip", "USB-C case"],
+      "specifications": [
+        { "label": "Type", "value": "In-ear, wireless" },
+        { "label": "Chip", "value": "Apple H2" },
+        { "label": "Battery", "value": "6 hr (ANC on), 30 hr with case" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.7,
+      "rating_count": 1520,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "airpods-pro-2-white",
+    "fields": {
+      "product": "airpods-pro-2",
+      "label": "White",
+      "attributes": { "Colour": "White" },
+      "price": "21999.00",
+      "mrp": "26900.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+
+  {
+    "model": "marketplace.product",
+    "pk": "samsung-tab-s10",
+    "fields": {
+      "name": "Samsung Galaxy Tab S10+",
+      "brand": "Samsung",
+      "category": "Tablets",
+      "thumbnail": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&w=800&q=80",
+      "description": "A 12.4-inch Dynamic AMOLED 2X display, MediaTek Dimensity 9300+, and an S Pen in the box.",
+      "images": ["https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&w=800&q=80"],
+      "highlights": ["12.4\" AMOLED 120Hz", "S Pen included", "IP68 water resistant", "Dimensity 9300+"],
+      "specifications": [
+        { "label": "Display", "value": "12.4\" Dynamic AMOLED 2X" },
+        { "label": "Chipset", "value": "MediaTek Dimensity 9300+" },
+        { "label": "Battery", "value": "10090 mAh" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.5,
+      "rating_count": 190,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "samsung-tab-s10-256-gray",
+    "fields": {
+      "product": "samsung-tab-s10",
+      "label": "12/256 GB · Moonstone Gray",
+      "attributes": { "Storage": "256 GB", "RAM": "12 GB", "Colour": "Moonstone Gray" },
+      "price": "94999.00",
+      "mrp": "104999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+
+  {
+    "model": "marketplace.product",
+    "pk": "gopro-hero-13",
+    "fields": {
+      "name": "GoPro HERO13 Black",
+      "brand": "GoPro",
+      "category": "Cameras",
+      "thumbnail": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80",
+      "description": "5.3K60 video, HDR, HyperSmooth 6.0 stabilisation and a new swappable lens system.",
+      "images": ["https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80"],
+      "highlights": ["5.3K60 video", "HyperSmooth 6.0", "Waterproof to 10m", "Swappable lenses"],
+      "specifications": [
+        { "label": "Video", "value": "5.3K60 / 4K120" },
+        { "label": "Photo", "value": "27MP" },
+        { "label": "Battery", "value": "Enduro 1900 mAh" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.4,
+      "rating_count": 210,
+      "created_at": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "gopro-hero-13-standard",
+    "fields": {
+      "product": "gopro-hero-13",
+      "label": "Standard Bundle",
+      "attributes": { "Bundle": "Standard", "Colour": "Black" },
+      "price": "40999.00",
+      "mrp": "45000.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
   }
 ]
