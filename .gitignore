@@ -1,0 +1,25 @@
+# Node / Expo (frontend)
+node_modules/
+.expo/
+dist/
+web-build/
+frontend/ios/
+frontend/android/
+
+# Python / Django (backend)
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+.venv/
+venv/
+env/
+staticfiles/
+
+# Env files
+.env
+.env*.local
+
+# Misc
+*.log
+.DS_Store

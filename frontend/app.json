@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "1Fi",
+    "slug": "1fi-marketplace",
+    "scheme": "onefi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0FB894"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-font"
+    ],
+    "extra": {
+      "apiBaseUrl": "http://localhost:8000/api",
+      "useMockApi": false
+    }
+  }
+}

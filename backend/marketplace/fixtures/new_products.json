@@ -1,0 +1,341 @@
+[
+  {
+    "model": "marketplace.product",
+    "pk": "iphone-16",
+    "fields": {
+      "name": "iPhone 16",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1592286927505-2fd2f0f9a7e6?auto=format&fit=crop&w=800&q=80",
+      "description": "A18 chip, Camera Control, a 48MP Fusion camera and USB-C. Built with durable aluminium and colour-infused glass.",
+      "images": [
+        "https://images.unsplash.com/photo-1592286927505-2fd2f0f9a7e6?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["A18 chip", "48MP Fusion camera", "Camera Control button", "USB-C"],
+      "specifications": [
+        { "label": "Display", "value": "6.1\" Super Retina XDR" },
+        { "label": "Chipset", "value": "Apple A18" },
+        { "label": "Rear camera", "value": "48MP + 12MP" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.7,
+      "rating_count": 540,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "samsung-s25",
+    "fields": {
+      "name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+      "description": "Galaxy AI, a brilliant 6.2-inch Dynamic AMOLED 2X display and a pro-grade triple camera powered by Snapdragon 8 Elite.",
+      "images": [
+        "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["Galaxy AI", "Snapdragon 8 Elite", "50MP triple camera", "7 years of updates"],
+      "specifications": [
+        { "label": "Display", "value": "6.2\" AMOLED, 120Hz" },
+        { "label": "Chipset", "value": "Snapdragon 8 Elite" },
+        { "label": "Battery", "value": "4000 mAh" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.5,
+      "rating_count": 410,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "sony-headphones",
+    "fields": {
+      "name": "Sony WH-1000XM6",
+      "brand": "Sony",
+      "category": "Audio",
+      "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "description": "Industry-leading noise cancellation, up to 30 hours of battery and crystal-clear hands-free calling.",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["Best-in-class ANC", "30 hr battery", "Multipoint connection", "Speak-to-chat"],
+      "specifications": [
+        { "label": "Type", "value": "Over-ear, wireless" },
+        { "label": "Battery", "value": "30 hours (ANC on)" },
+        { "label": "Codecs", "value": "LDAC, AAC, SBC" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.6,
+      "rating_count": 980,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "apple-watch-series-10",
+    "fields": {
+      "name": "Apple Watch Series 10",
+      "brand": "Apple",
+      "category": "Wearables",
+      "thumbnail": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+      "description": "The thinnest Apple Watch ever, with a wide-angle OLED display, faster charging and advanced health sensors.",
+      "images": [
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["Wide-angle OLED", "Fast charging", "Sleep apnea notifications", "Water resistant"],
+      "specifications": [
+        { "label": "Case sizes", "value": "42 mm / 46 mm" },
+        { "label": "Display", "value": "LTPO3 OLED" },
+        { "label": "Battery", "value": "Up to 18 hours" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.7,
+      "rating_count": 260,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "nike-air-max",
+    "fields": {
+      "name": "Nike Air Max Dn",
+      "brand": "Nike",
+      "category": "Footwear",
+      "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+      "description": "The Dynamic Air unit system of dual-pressure tubes delivers a springy, responsive ride with every step.",
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["Dynamic Air cushioning", "Breathable mesh upper", "Rubber outsole", "Everyday comfort"],
+      "specifications": [
+        { "label": "Upper", "value": "Engineered mesh" },
+        { "label": "Cushioning", "value": "Air Max Dn" },
+        { "label": "Closure", "value": "Lace-up" },
+        { "label": "Warranty", "value": "6 months" }
+      ],
+      "rating": 4.4,
+      "rating_count": 320,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "canon-eos-r10",
+    "fields": {
+      "name": "Canon EOS R10",
+      "brand": "Canon",
+      "category": "Cameras",
+      "thumbnail": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "description": "A 24.2MP APS-C mirrorless camera with fast Dual Pixel CMOS AF II, 15 fps shooting and 4K video.",
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["24.2MP APS-C sensor", "15 fps mechanical", "Dual Pixel AF II", "4K 30p video"],
+      "specifications": [
+        { "label": "Sensor", "value": "24.2MP APS-C CMOS" },
+        { "label": "Mount", "value": "Canon RF" },
+        { "label": "Video", "value": "4K UHD 30p" },
+        { "label": "Warranty", "value": "2 years" }
+      ],
+      "rating": 4.6,
+      "rating_count": 150,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "marketplace.product",
+    "pk": "ipad-air",
+    "fields": {
+      "name": "iPad Air (M2)",
+      "brand": "Apple",
+      "category": "Tablets",
+      "thumbnail": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+      "description": "The M2 chip, a 11-inch Liquid Retina display, and support for Apple Pencil Pro in a thin, light design.",
+      "images": [
+        "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "highlights": ["Apple M2 chip", "11\" Liquid Retina", "Apple Pencil Pro support", "All-day battery"],
+      "specifications": [
+        { "label": "Display", "value": "11\" Liquid Retina" },
+        { "label": "Chip", "value": "Apple M2" },
+        { "label": "Storage", "value": "128 GB / 256 GB" },
+        { "label": "Warranty", "value": "1 year" }
+      ],
+      "rating": 4.7,
+      "rating_count": 210,
+      "created_at": "2026-09-07T00:00:00Z"
+    }
+  },
+
+  {
+    "model": "marketplace.productvariant",
+    "pk": "iphone-16-128-black",
+    "fields": {
+      "product": "iphone-16",
+      "label": "128 GB · Black",
+      "attributes": { "Storage": "128 GB", "Colour": "Black" },
+      "price": "74999.00",
+      "mrp": "79999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1592286927505-2fd2f0f9a7e6?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "iphone-16-256-blue",
+    "fields": {
+      "product": "iphone-16",
+      "label": "256 GB · Blue",
+      "attributes": { "Storage": "256 GB", "Colour": "Blue" },
+      "price": "84999.00",
+      "mrp": "89999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?auto=format&fit=crop&w=800&q=80",
+      "position": 2
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "pixel-9-128-obsidian",
+    "fields": {
+      "product": "pixel-9",
+      "label": "128 GB · Obsidian",
+      "attributes": { "Storage": "128 GB", "Colour": "Obsidian" },
+      "price": "79999.00",
+      "mrp": "84999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "samsung-s25-256-silver",
+    "fields": {
+      "product": "samsung-s25",
+      "label": "256 GB · Silver",
+      "attributes": { "Storage": "256 GB", "Colour": "Silver" },
+      "price": "89999.00",
+      "mrp": "94999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "macbook-air-m3-256-spacegray",
+    "fields": {
+      "product": "macbook-air-m3",
+      "label": "256 GB · Space Gray",
+      "attributes": { "Storage": "256 GB", "RAM": "8 GB", "Colour": "Space Gray" },
+      "price": "99999.00",
+      "mrp": "114999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "macbook-air-m3-512-midnight",
+    "fields": {
+      "product": "macbook-air-m3",
+      "label": "512 GB · Midnight",
+      "attributes": { "Storage": "512 GB", "RAM": "16 GB", "Colour": "Midnight" },
+      "price": "129999.00",
+      "mrp": "144999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "position": 2
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "sony-headphones-black",
+    "fields": {
+      "product": "sony-headphones",
+      "label": "Black · Wireless",
+      "attributes": { "Colour": "Black", "Type": "Wireless", "Noise Cancellation": "Yes" },
+      "price": "24999.00",
+      "mrp": "29999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "apple-watch-series-10-black",
+    "fields": {
+      "product": "apple-watch-series-10",
+      "label": "42 mm · Black",
+      "attributes": { "Size": "42 mm", "Colour": "Black", "Connectivity": "GPS" },
+      "price": "44999.00",
+      "mrp": "49999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "nike-air-max-black-9",
+    "fields": {
+      "product": "nike-air-max",
+      "label": "Size 9 · Black",
+      "attributes": { "Size": "9", "Colour": "Black", "Gender": "Men" },
+      "price": "8999.00",
+      "mrp": "11999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "nike-air-max-white-10",
+    "fields": {
+      "product": "nike-air-max",
+      "label": "Size 10 · White",
+      "attributes": { "Size": "10", "Colour": "White", "Gender": "Men" },
+      "price": "9499.00",
+      "mrp": "12999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+      "position": 2
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "canon-eos-r10-black",
+    "fields": {
+      "product": "canon-eos-r10",
+      "label": "18-45 mm · Black",
+      "attributes": { "Lens": "18-45 mm", "Colour": "Black", "Type": "Mirrorless" },
+      "price": "79999.00",
+      "mrp": "89999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  },
+  {
+    "model": "marketplace.productvariant",
+    "pk": "ipad-air-256-blue",
+    "fields": {
+      "product": "ipad-air",
+      "label": "256 GB · Blue",
+      "attributes": { "Storage": "256 GB", "Colour": "Blue", "Connectivity": "Wi-Fi" },
+      "price": "69999.00",
+      "mrp": "74999.00",
+      "in_stock": true,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+      "position": 1
+    }
+  }
+]
