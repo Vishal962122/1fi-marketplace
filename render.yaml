@@ -18,10 +18,11 @@ services:
         value: "false"
       - key: DJANGO_SECRET_KEY
         generateValue: true
+      # Demo: allow any origin so the Vercel site can call the API without
+      # pinning its exact URL. Tighten later by setting this to "false" and
+      # filling CORS_ALLOWED_ORIGINS with the Vercel domain.
       - key: CORS_ALLOW_ALL
-        value: "false"
-      # Set this after the Vercel frontend is live, e.g.
-      # https://1fi-marketplace.vercel.app  (no trailing slash)
+        value: "true"
       - key: CORS_ALLOWED_ORIGINS
         sync: false
       # Admin login for the reseeded DB. Set these in the dashboard.
