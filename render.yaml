@@ -10,7 +10,7 @@ services:
     # migrate + seed run on every container start because the free tier has no
     # persistent disk (SQLite resets). seed is idempotent. Orders don't survive
     # a restart — fine for a demo.
-    startCommand: "python manage.py migrate --no-input && python manage.py seed && { python manage.py createsuperuser --no-input || true; } && gunicorn config.wsgi:application --bind 0.0.0.0:$PORT"
+    startCommand: "python manage.py migrate --no-input && python manage.py seed && { python manage.py loaddata new_products || true; } && { python manage.py createsuperuser --no-input || true; } && gunicorn config.wsgi:application --bind 0.0.0.0:$PORT"
     envVars:
       - key: PYTHON_VERSION
         value: "3.12.7"
